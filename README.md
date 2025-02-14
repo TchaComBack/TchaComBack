@@ -48,4 +48,4 @@
 <p>📌 Discord/WhatsApp: (colocar link do grupo)</p>
 <p>📌 E-mail: contato@tchacomback.dev</p>
 
-<h1 style="color: #008000;">🎭 Tchá com Back — Porque código bom a gente escreve com calma e uma boa xícara de chá! ☕</h1>
+<h1 style="font-style: italic;">🎭 Tchá com Back — Porque código bom a gente escreve com calma e uma boa xícara de chá! ☕</h1>
