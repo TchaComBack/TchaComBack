@@ -9,22 +9,30 @@
 <details>
   <summary><h1 style="color: #008000;">🛠️ Tecnologias Utilizadas</h1></summary>
 
-  <summary><h3>💻 Backend:</h3></summary>
-  <li>C# com .NET</li>
-  <li>ASP.NET Core</li>
-  <li>Entity Framework</li>
+  <details>
+    <summary><h3>💻 Backend:</h3></summary>
+    <li>C# com .NET</li>
+    <li>ASP.NET Core</li>
+    <li>Entity Framework</li>
+  </details>
 
-  <summary><h3>🌐 Frontend:</h3></summary>
-  <li>HTML, CSS, JavaScript</li>
-  <li>React.js / Vue.js (a definir)</li>
-  <li>Bootstrap v5.3</li>
-
-  <summary><h3>🗃️ Banco de Dados:</h3></summary>
-  <li> SQL Server / PostgreSQL / MySql</li>
-
-  <summary><h3>🔧 Outras Ferramentas:</h3></summary>
-  <li>Git Lab</li>
-  <li>Git e GitHub</li>
+  <details>
+    <summary><h3>🌐 Frontend:</h3></summary>
+    <li>HTML, CSS, JavaScript</li>
+    <li>React.js / Vue.js (a definir)</li>
+    <li>Bootstrap v5.3</li>
+  </details>
+    
+  <details>
+    <summary><h3>🗃️ Banco de Dados:</h3></summary>
+    <li> SQL Server / PostgreSQL / MySql</li>
+  </details>
+  
+  <details>
+    <summary><h3>🔧 Outras Ferramentas:</h3></summary>
+    <li>Git Lab</li>
+    <li>Git e GitHub</li>
+  </details>
 </details>
 
 <h1 style="color: #008000;">📜 Regras do Projeto</h1>
