@@ -45,7 +45,7 @@
 
 <h1 style="color: #008000;">💬 Contato & Comunidade</h1>
 <span style="font-height: bold;">📢 Qualquer dúvida ou sugestão, entre em contato com o grupo pelos canais:</span>
-<p>📌 Discord/WhatsApp: (colocar link do grupo)</p>
-<p>📌 E-mail: contato@tchacomback.dev</p>
+<p>📌 Discord/WhatsApp: <a href="https://chat.whatsapp.com/JaLscBWhjQp7ZBnWpH6Mbq"></a></p>
+<p>📌 E-mail: tchacomback@gmail.com</p>
 
 <h3 style="font-style: italic;">🎭 Tchá com Back — Porque código bom a gente escreve com calma e uma boa xícara de chá! ☕</h3>
